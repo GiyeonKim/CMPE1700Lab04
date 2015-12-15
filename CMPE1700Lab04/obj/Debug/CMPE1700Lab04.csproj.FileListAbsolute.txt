@@ -1,0 +1,9 @@
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\bin\Debug\CMPE1700Lab04.exe.config
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\bin\Debug\CMPE1700Lab04.exe
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\bin\Debug\CMPE1700Lab04.pdb
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\obj\Debug\CMPE1700Lab04.csprojResolveAssemblyReference.cache
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\obj\Debug\CMPE1700Lab04.exe
+C:\Users\devil\Desktop\CMPE1600\CMPE1700Lab04\CMPE1700Lab04\obj\Debug\CMPE1700Lab04.pdb
+C:\Users\devil\Desktop\CMPE1700\CMPE1700Lab04\CMPE1700Lab04\bin\Debug\CMPE1700Lab04.exe.config
+C:\Users\devil\Desktop\CMPE1700\CMPE1700Lab04\CMPE1700Lab04\obj\Debug\CMPE1700Lab04.exe
+C:\Users\devil\Desktop\CMPE1700\CMPE1700Lab04\CMPE1700Lab04\obj\Debug\CMPE1700Lab04.pdb
